@@ -39,5 +39,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Atlantica Online Craft Calculator
-gem 'atlantica_online_craft_calculator_engine', github: 'neuronet77/atlantica_online_craft_calculator_engine'
-gem 'atlantica_online_craft_calculator', github: 'neuronet77/atlantica_online_craft_calculator'
+gem 'atlantica_online_craft_calculator_engine', path: '../atlantica_online_craft_calculator_engine'
+gem 'atlantica_online_craft_calculator', path: '../atlantica_online_craft_calculator'
