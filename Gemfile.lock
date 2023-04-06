@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/neuronet77/atlantica_online_craft_calculator_engine.git
-  revision: 5ea10de053c01b6691e76a97706e0bebbe93c32a
+  revision: 56098197302e920a5478b2be1d46dd4d64a0b8f9
   specs:
     atlantica_online_craft_calculator_engine (0.0.1)
       atlantica_online_craft_calculator
