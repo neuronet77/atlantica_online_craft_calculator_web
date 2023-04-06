@@ -1,14 +1,16 @@
-PATH
-  remote: ../atlantica_online_craft_calculator_engine
+GIT
+  remote: https://github.com/neuronet77/atlantica_online_craft_calculator.git
+  revision: 0a2660a507b7716bcb13505e3df6c48bba9328b2
+  specs:
+    atlantica_online_craft_calculator (0.0.1)
+
+GIT
+  remote: https://github.com/neuronet77/atlantica_online_craft_calculator_engine.git
+  revision: 5ea10de053c01b6691e76a97706e0bebbe93c32a
   specs:
     atlantica_online_craft_calculator_engine (0.0.1)
       atlantica_online_craft_calculator
       rails (> 3.2)
-
-PATH
-  remote: ../atlantica_online_craft_calculator
-  specs:
-    atlantica_online_craft_calculator (0.0.1)
 
 GEM
   remote: https://rubygems.org/
